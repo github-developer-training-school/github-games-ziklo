@@ -1,0 +1,4 @@
+*          @ncsokas
+*.md       @docs-team
+/docs/*    @docs-team
+*.js       @js-expert
